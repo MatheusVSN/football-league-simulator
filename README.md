@@ -1,5 +1,5 @@
 # FOOTBALL LEAGUE SIMULATOR
-This a project where you can create your own football universe and watch it's story! You can follow over 10 south american countries, with each of them having 2 divisions, perhaps you can even see a bottom division 2 team becoming one of the bests eventually 👀
+This is a project where you can create your own football universe and watch its story! You can follow over 10 South American countries, each with 2 divisions. Perhaps you can even see a bottom division 2 team eventually becoming one of the best 👀
 
 ## Features
 - Creating your own universe with a unique campaign
